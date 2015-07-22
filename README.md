@@ -18,6 +18,8 @@ In the first half, everyone starts by remaking several part files.
 
 4. `6_inch_wheel`: Here we learn about rotating around a line, and also get to look at the material picker in detail.
 
+5. `wedge_piece`: This is the hardest to sketch. Several angle dimensions are necessary, and figuring out how to get the right angle both ways is a bit tricky. Additionally, have everyone initially make their wedges steel, then after measuring the mass switch to titanium.
+
 5. `1_inch_id_bushing`: Talk about bushings and their usefulness, more practice with material choice and rotation.
 
 6. The rest of the pieces don't add much to learning about the robot, so we'll give those in the next tutorial.
