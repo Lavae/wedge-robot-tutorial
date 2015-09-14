@@ -41,4 +41,4 @@ In the second half, everyone assembles the parts together into the finished bot.
 
 5. People import the rest of the parts and attach those using concentric and coincident mates.
 
-6. Fuck, this teaches nothing but concentric and coincedent, I probably have to redesign the damn thing to use a wider variety of mates.
+6. This half of the tutorial is still under construction.
